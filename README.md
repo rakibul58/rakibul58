@@ -1,6 +1,5 @@
 ![MasterHead](https://i.ibb.co/2NQgF0y/Untitled-Design-4.png)
 <h1 align="center">Hi 👋, I'm Muhammed Rakibul Hasan</h1>
-<h3 align="center">A Web Developer from Chattogram, Bangladesh</h3>
 
 <p  align="left"><img alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/></p>
 
