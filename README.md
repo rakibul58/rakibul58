@@ -77,5 +77,5 @@ A mobile resale website where buyers can book and report phones, while sellers c
 ![](https://github-profile-trophy.vercel.app/?username=rakibul58&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 ## ⚡ Fun Facts
-- I'm a **chess fan** ♟️ and leqrning to play online!
+- I'm a **chess fan** ♟️ and learning to play online!
 - When not coding, I love **gaming** and **reading tech blogs**.
