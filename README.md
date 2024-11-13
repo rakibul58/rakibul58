@@ -27,7 +27,7 @@ A comprehensive car rental platform that lets users search, book, and manage res
   - Search and book car rentals
   - Admin dashboard with car and booking management
   - Role-based access control
-  - Stripe payment integration
+  - Amarpay payment integration
 - **[Client](https://github.com/rakibul58/steerAway-client)**  |  **[Server](https://github.com/rakibul58/steerAway-server)**
 
 ---
