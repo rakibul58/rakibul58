@@ -3,7 +3,7 @@
 <h1 align="left">Hi 👋, I'm Muhammed Rakibul Hasan</h1>
 
 ## 💫 About Me:
-🔭 I’m currently working on refining my knowledge on web Technologies.<br><br>👯 I’m looking to collaborate on SaaS projects that provide practical solutions for businesses or consumers, especially those focused on e-commerce and reservation systems.<br><br>🤝 I’m looking for help with finding ideas for new projects.<br><br>🌱 I’m currently learning Prisama and advancing my knowledge of backend technologies to build efficient, scalable applications.<br><br>💬 Ask me about React, Next.JS, JavaScript, MongoDB, Node.js, and TypeScript.<br><br>⚡ Fun fact: I enjoy solving code challenges and exploring how small optimizations can make a big impact on application performance.
+🔭 I’m currently working on refining my knowledge on web Technologies.<br><br>👯 I’m looking to collaborate on SaaS projects that provide practical solutions for businesses or consumers, especially those focused on e-commerce and reservation systems.<br><br>🤝 I’m looking for help with finding ideas for new projects.<br><br>🌱 I’m currently learning Prisma and advancing my knowledge of backend technologies to build efficient, scalable applications.<br><br>💬 Ask me about React, Next.JS, JavaScript, MongoDB, Node.js, and TypeScript.<br><br>⚡ Fun fact: I enjoy solving code challenges and exploring how small optimizations can make a big impact on application performance.
 
 ## 🚀 **My Best Projects**
 
