@@ -5,56 +5,6 @@
 ## 💫 About Me:
 🔭 I’m currently working on refining my knowledge on web Technologies.<br><br>👯 I’m looking to collaborate on SaaS projects that provide practical solutions for businesses or consumers, especially those focused on e-commerce and reservation systems.<br><br>🤝 I’m looking for help with finding ideas for new projects.<br><br>🌱 I’m currently learning Prisma and advancing my knowledge of backend technologies to build efficient, scalable applications.<br><br>💬 Ask me about React, Next.JS, JavaScript, MongoDB, Node.js, and TypeScript.<br><br>⚡ Fun fact: I enjoy solving code challenges and exploring how small optimizations can make a big impact on application performance.
 
-## 🚀 **My Best Projects**
-
-#### [Protech - Blog Site](https://pro-tech-steel.vercel.app/)
-A blog platform for users to post articles, comment, and vote on topics of interest. Admins can manage posts and user interactions.
-
-- **Tech Stack:** TypeScript, Node.js, Express, MongoDB, Next.js, Tailwind CSS
-- **Features:**
-  - User authentication and post creation
-  - Commenting and voting functionalities
-  - Admin dashboard for content moderation
-- **[Client](https://github.com/rakibul58/protech-client)**  |  **[Server](https://github.com/rakibul58/protech-server)**
-
----
-
-#### [SteerAway - Car Rental System](https://steer-away-rental.vercel.app/)
-A comprehensive car rental platform that lets users search, book, and manage reservations. Admins can oversee car listings and reservations.
-
-- **Tech Stack:** TypeScript, React, Node.js, Express, MongoDB
-- **Features:** 
-  - Search and book car rentals
-  - Admin dashboard with car and booking management
-  - Role-based access control
-  - Amarpay payment integration
-- **[Client](https://github.com/rakibul58/steerAway-client)**  |  **[Server](https://github.com/rakibul58/steerAway-server)**
-
----
-
-#### [Wilderness Wonders - Camping Gear Shop](https://wilderness-wonders.vercel.app/)
-An e-commerce platform designed for camping enthusiasts with inventory, order handling, and user management.
-
-- **Tech Stack:** Node.js, Express, MongoDB, TypeScript, React, Redux, Vite, Tailwind CSS
-- **Features:**
-  - Comprehensive product listings with inventory management
-  - Shopping cart and order processing
-  - Search and filter options for a tailored user experience
-- **[Client](https://github.com/rakibul58/wilderness-wonders-client)**  |  **[Server](https://github.com/rakibul58/wilderness-wonders-server)**
-
----
-
-#### [Mobile Heaven - Mobile Resale Platform](https://phone-heaven.web.app/)
-A mobile resale website where buyers can book and report phones, while sellers can manage listings.
-
-- **Tech Stack:** React, Node.js, Express, MongoDB, Stripe, JWT
-- **Features:**
-  - Category-based phone listings with dynamic routing
-  - Booking and reporting functionalities for buyers
-  - Stripe integration for secure payments
-  - Admin management of users and reported items
-- **[Client](https://github.com/rakibul58/phone-heaven-client)**  |  **[Server](https://github.com/rakibul58/phone-heaven-server)**
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/CsqgsVVVvh) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rhrahi14) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rakibul14) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammed-rakibul-hasan) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Silver_Branch_3151) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rakibul_58) [![Threads](https://img.shields.io/badge/Threads-%23000000.svg?logo=Threads&logoColor=white)](https://www.threads.net/@rakibul14)
 
