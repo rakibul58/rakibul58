@@ -1,4 +1,4 @@
-![MasterHead](https://i.ibb.co/2NQgF0y/Untitled-Design-4.png)
+![MasterHead](https://res.cloudinary.com/dk4zufod5/image/upload/v1745129326/Untitled-Design-4_tdgzyk.png)
 
 <h1 align="left">Hi 👋, I'm Muhammed Rakibul Hasan</h1>
 
