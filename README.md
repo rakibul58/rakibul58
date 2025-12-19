@@ -12,8 +12,9 @@
 <p align="center">
   <a href="https://linkedin.com/in/muhammed-rakibul-hasan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:muhammed.rakibul.hasan.1@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://rakibul-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://rakibul-developer-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://x.com/rakibul_58"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/></a>
+  <a href="https://facebook.com/rhrahi14"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
   <img src="https://komarev.com/ghpvc/?username=rakibul58&style=for-the-badge&color=6366f1" alt="Profile Views"/>
 </p>
 
@@ -26,7 +27,7 @@
 ```typescript
 const rakibul = {
     role: "MERN Stack Developer",
-    location: "Bangladesh 🇧🇩",
+    location: "Chattogram, Bangladesh 🇧🇩",
     experience: "2+ years",
     
     specializations: [
@@ -122,7 +123,7 @@ const rakibul = {
 <tr>
 <td width="50%">
 
-### 🛒 [Vendozy](https://vendozy-client.vercel.app/)
+### 🛒 [Vendozy](https://vendozy.vercel.app/)
 **Multi-Vendor E-Commerce Platform**
 
 Full-featured marketplace with vendor dashboards, real-time inventory, and order management.
@@ -134,12 +135,12 @@ Full-featured marketplace with vendor dashboards, real-time inventory, and order
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma"/>
 </p>
 
-[Live Demo](https://vendozy-client.vercel.app/) • [Frontend](https://github.com/rakibul58/vendozy-client) • [Backend](https://github.com/rakibul58/vendozy-server)
+[Live Demo](https://vendozy.vercel.app/) • [Frontend](https://github.com/rakibul58/vendozy-client) • [Backend](https://github.com/rakibul58/vendozy-server)
 
 </td>
 <td width="50%">
 
-### 🚗 [SteerAway](https://steer-away-client.vercel.app/)
+### 🚗 [SteerAway](https://steer-away-rental.vercel.app/)
 **Car Rental Booking System**
 
 Complete booking platform with availability management, dynamic pricing, and payment integration.
@@ -151,14 +152,14 @@ Complete booking platform with availability management, dynamic pricing, and pay
 <img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=express"/>
 </p>
 
-[Live Demo](https://steer-away-client.vercel.app/) • [Frontend](https://github.com/rakibul58/steerAway-client) • [Backend](https://github.com/rakibul58/steerAway-server)
+[Live Demo](https://steer-away-rental.vercel.app/) • [Frontend](https://github.com/rakibul58/steerAway-client) • [Backend](https://github.com/rakibul58/steerAway-server)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 💡 [ProTech](https://protech-client.vercel.app/)
+### 💡 [ProTech](https://pro-tech-steel.vercel.app/)
 **Tech Tips & Knowledge Sharing**
 
 Social platform for tech enthusiasts with upvotes, comments, and premium content subscriptions.
@@ -170,12 +171,12 @@ Social platform for tech enthusiasts with upvotes, comments, and premium content
 <img src="https://img.shields.io/badge/TanStack-FF4154?style=flat-square&logo=react-query&logoColor=white"/>
 </p>
 
-[Live Demo](https://protech-client.vercel.app/) • [Frontend](https://github.com/rakibul58/protech-client) • [Backend](https://github.com/rakibul58/protech-server)
+[Live Demo](https://pro-tech-steel.vercel.app/) • [Frontend](https://github.com/rakibul58/protech-client) • [Backend](https://github.com/rakibul58/protech-server)
 
 </td>
 <td width="50%">
 
-### 🏕️ [Wilderness Wonders](https://wilderness-wonders-client.vercel.app/)
+### 🏕️ [Wilderness Wonders](https://wilderness-wonders.vercel.app/)
 **Camping Gear E-Commerce**
 
 Online store with cart management, Stripe payments, and inventory tracking system.
@@ -187,7 +188,7 @@ Online store with cart management, Stripe payments, and inventory tracking syste
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 </p>
 
-[Live Demo](https://wilderness-wonders-client.vercel.app/) • [Frontend](https://github.com/rakibul58/wilderness-wonders-client) • [Backend](https://github.com/rakibul58/wilderness-wonders-server)
+[Live Demo](https://wilderness-wonders.vercel.app/) • [Frontend](https://github.com/rakibul58/wilderness-wonders-client) • [Backend](https://github.com/rakibul58/wilderness-wonders-server)
 
 </td>
 </tr>
@@ -258,7 +259,7 @@ To enable the snake animation:
   <a href="https://linkedin.com/in/muhammed-rakibul-hasan">
     <img src="https://img.shields.io/badge/💼_Connect_on_LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"/>
   </a>
-  <a href="https://rakibul-portfolio.vercel.app/">
+  <a href="https://rakibul-developer-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/🌐_View_Portfolio-000000?style=for-the-badge" alt="Portfolio"/>
   </a>
 </p>
